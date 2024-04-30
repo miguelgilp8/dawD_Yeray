@@ -2,3 +2,4 @@
 - [x] Victor
 - [x] Leticia
 - [X] Milad Al Chihabi
+- [X] Mario Laglera
