@@ -6,3 +6,4 @@
 - [X] Jorge Herraiz
 - [X] Nerea Pellés
 - [X] África García
+- [X] Pablo Casamián
