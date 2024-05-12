@@ -1,0 +1,4 @@
+Nombre y Apellidos: Sara Ortega
+Correo Electronico: ortegasara204@gmail.com
+Color Favorito: Morado Amatista
+Foto: Imagenes/icon.jpg
