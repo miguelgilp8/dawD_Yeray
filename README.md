@@ -9,3 +9,4 @@
 - [X] Pablo Casamián
 - [x] Carlos Povill
 - [x] Miguel Gil
+- [x] Yeray Sorolla
